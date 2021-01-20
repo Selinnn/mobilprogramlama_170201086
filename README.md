@@ -52,8 +52,8 @@ $ ionic cordova plugin add cordova-plugin-advanced-http
 
 Ekran Görüntüleri
 
-<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/anasayfa.png" width="375" height="812" />        
+<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/anasayfa.png" width="375" height="812" /></br>
 <img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/olustur.png" width="375" height="812" /></br>
-<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/bildirim.png" width="375" height="812" />        
+<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/bildirim.png" width="375" height="812" /></br>
 <img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/hesabım.png" width="375" height="812" /></br>
-<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/degerlendir.png" width="375" height="812" />
+<img src="https://raw.githubusercontent.com/Selinnn/mobilprogramlama_170201086/master/SS/degerlendir.png" width="375" height="812" /></br>
