@@ -1,5 +1,5 @@
 
-## Şikayet Var-İonic Tabanlı Mobil Uygulaması Şikayetlerim Modülü <img src="https://raw.githubusercontent.com/2019-BLM441/app-180201130/master/logo.png" width="100" height="100" /> 
+## Şikayet Et-İonic Tabanlı Mobil Uygulaması Şikayetlerim Modülü <img src="https://raw.githubusercontent.com/2019-BLM441/app-180201130/master/logo.png" width="100" height="100" /> 
 
 <img src="https://raw.githubusercontent.com/2019-BLM441/module-180201130/master/assets/img/logo-html5.png" width="30" height="30" /> --    <img src="https://raw.githubusercontent.com/2019-BLM441/module-180201130/master/assets/img/logo-angular.png" width="30" height="30" /> --   <img src="https://raw.githubusercontent.com/2019-BLM441/module-180201130/master/assets/img/logo-ionic.png" width="30" height="30" /> -- <img src="https://raw.githubusercontent.com/2019-BLM441/module-180201130/master/assets/img/logo-nodejs.png" width="30" height="30" /> -- <img src="https://raw.githubusercontent.com/2019-BLM441/module-180201130/master/assets/img/logo-javascript.png" width="30" height="30" />
 
@@ -13,7 +13,7 @@
 
 #
 
-**Şikayet Var!**
+**Şikayet Et!**
  uygulaması belediyeler gibi küçük nüfuslu yerleşim yerlerine özel kullanıcıların çevrelerindeki herhangi bir olumsuz durum yada şikayetlerini herkese açık bir şekilde paylaşıp ileti atabildiği bir ionic tabanlı mobil uygulamadır.Uygulama aynı zamanda bulut tabanlı ve local tabanlı veritabanı içerir.
 
 
@@ -24,16 +24,6 @@ Bu uygulama <abbr title="Mobil uygulamalar için HTML5 bazında hazırlanmış a
 ![](https://img.shields.io/static/v1?label=Version&message=1.0&color=<COLOR>) ![](https://img.shields.io/static/v1?label=ionic&message=5.3.4&color=<COLOR>) ![](https://img.shields.io/github/license/2019-BLM441/module-180201130) 
 #
 
-## FAVORİLERİM MODÜLÜ
-
-#### ->Bu modül [Şikayet Var](https://github.com/2019-BLM441/app-180201130) uygulamasının bir modülüdür.Uygulamanın Favorilerim bölümü bu modül sayesinde çalışmaktadır.
-
-##### Favorilerim Modülünün Sunduğu Özellikler
-
---> Kullanıcı bu modül ile dilediği şikayeti favorilerine ekleyebilir.
---> Favoriler arasında kategori sistemini kullanarak favori şikayetlerini kategorilendirebilir.
---> İstediği zaman favorideki şikayeti silebilir.
---> Favorileri arasında arama yapabilir.
 
 
 	
